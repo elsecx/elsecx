@@ -1,9 +1,10 @@
-<div align="center">
-  <img src="./images/banner.gif" style="width: 100%;" />
-</div>
+<p align="center" width="100%">
+  <img width="100%" src="images/isekai-banner.gif" alt="Elgin Al-wafi">
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elsecx.elsecx&"  />
+  <img src="https://www.codewars.com/users/elsecx/badges/small"  />
 </div>
 
 ###
